@@ -9,3 +9,5 @@ opencvによって取得した画像をグレースケールに変換し
 相違点:このサイトにおいては一枚の画像をDCT変換しているが、作成したプログラムにおいては
 カメラからキャプチャした画像をそのまま変換し、トラックバーの値に応じて復元したものを
 opencvを用いて表示している。(画像データの変数型がImage型でなくndarray型である)
+
+youtube_URL:https://www.youtube.com/watch?v=Jsxni3PXZQE
